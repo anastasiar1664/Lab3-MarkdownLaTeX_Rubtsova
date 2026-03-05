@@ -1,0 +1,15 @@
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\bin\Debug\net9.0\FormatDemo.cs.exe
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\bin\Debug\net9.0\FormatDemo.cs.deps.json
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\bin\Debug\net9.0\FormatDemo.cs.runtimeconfig.json
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\bin\Debug\net9.0\FormatDemo.cs.dll
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\bin\Debug\net9.0\FormatDemo.cs.pdb
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\obj\Debug\net9.0\FormatDemo.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\obj\Debug\net9.0\FormatDemo.cs.AssemblyInfoInputs.cache
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\obj\Debug\net9.0\FormatDemo.cs.AssemblyInfo.cs
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\obj\Debug\net9.0\FormatDemo.cs.csproj.CoreCompileInputs.cache
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\obj\Debug\net9.0\FormatDemo.cs.sourcelink.json
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\obj\Debug\net9.0\FormatDemo.cs.dll
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\obj\Debug\net9.0\refint\FormatDemo.cs.dll
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\obj\Debug\net9.0\FormatDemo.cs.pdb
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\obj\Debug\net9.0\FormatDemo.cs.genruntimeconfig.cache
+C:\Users\Kanra\Desktop\sharaga\oop_lab_2sem\Lab_3_OOP_rubtsova\FormatDemo.cs\obj\Debug\net9.0\ref\FormatDemo.cs.dll
