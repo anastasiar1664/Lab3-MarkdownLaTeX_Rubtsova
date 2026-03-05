@@ -1,0 +1,7 @@
+[Github](https://github.com/anastasiar1664)  
+[Markdown](https://www.markdownguide.org/ "Перейти на официальный сайт")   
+![Скриншот задания](/img/gitPushLab3_rubtsova.png)  
+![Скриншот задания](/img/headersCommitLab3_rubtsova.png)  
+[HoYoPlay](https://hoyoplay.hoyoverse.com/)  
+[Prydwen](https://www.prydwen.gg/)  
+[Наруто крутой эдит](https://www.youtube.com/watch?v=N4dHSeXx5KQ)
